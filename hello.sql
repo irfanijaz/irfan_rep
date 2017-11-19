@@ -1,1 +1,2 @@
-create table hello(a integer);
+INSERT INTO HELLO(1);
+INSERT INTO HELLO(2);
