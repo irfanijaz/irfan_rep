@@ -1,1 +1,1 @@
-show user;
+create table hello(a integer);
