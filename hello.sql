@@ -1,4 +1,4 @@
-create table Customer1
+create table Customer2
 (
   CustomerID Integer
   ,CustomerName Varchar(20)
@@ -6,6 +6,7 @@ create table Customer1
 );
 
 insert into Customer1 values (123,'irfan',28);
+commit;
 
 Create or Replace procedure Sample_Jenkins
 is
